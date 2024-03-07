@@ -2,7 +2,7 @@
 
 const dsnParam = {
   map: {
-    marker_icon: "assets/img/map-marker.png",
+    marker_icon: "https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/map-marker.png",
     api: "AIzaSyDMyAS2jdzj-vdgBIFaIStYOWJtSlghndg"
   },
   cursor: {
@@ -16,7 +16,7 @@ const dsnParam = {
     smoothTouch: false,
     mouseMultiplier: 1
   },
-  name: "BLACKDSN"
+  name: "ArchStudio"
 };
 
 (function ($) {
