@@ -1,0 +1,34 @@
+/*-----------------------------------------------------------------------------------
+
+	Description: All Css Plugins & Helper Classes File
+	Version    : 1.0
+	Created By : Aan Fauzi
+	Author     : Arch Studio
+
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+			[ Start Plugins Custom Css  ]
+-----------------------------------------------------------------*/
+
+/* == fontawesome == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/fontawesome-all.min.css");
+
+/* == Swiper == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/swiper.min.css");
+
+/* == animatedheadline == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/jquery.animatedheadline.css");
+
+/* == fancybox popup == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/fancybox.css");
+
+/* == magnific popup == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/fj-gallery.css");
+
+/* == Helper Class == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/global.css");
+
+/* == Main Sliders == */
+@import url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/slider/all.min.css");
