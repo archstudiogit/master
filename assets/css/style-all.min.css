@@ -1,11 +1,10 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------
 
-Template Name: BlackDsn - Ajax Portfolio HTML Template
-  Template URI: http://theme.dsngrid.com/blackdsn
-  Description: BlackDsn Ajax Portfolio Showcase HTML Template
-  Author: design_grid
-  Author URI: https://themeforest.net/user/design_grid
+Template Name: Arch Studio Agency
+  Description: Arch Studio Blogger Template
+  Author: Arch Studio
+ Created by: Aan Fauzi
   Version: 1.0.0
 
 -------------------------------------------------------------*/
@@ -600,11 +599,11 @@ body:not(.dsn-cursor-effect) #dsn_cursor, body:not(.dsn-cursor-effect) #dsn_curs
 }
 
 .bg-dots:not(.dsn-btn, .service-item, .service-item-inner), .bg-dots .background-section:not(.dsn-btn, .service-item, .service-item-inner), .bg-dots .background-main:not(.dsn-btn, .service-item, .service-item-inner), .bg-dots .background-theme:not(.dsn-btn, .service-item, .service-item-inner) {
-  background-image: url("../img/bg-dot.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/bg-dot.png");
 }
 
 .bg-dots.v-light:not(.dsn-btn, .service-item, .service-item-inner), .bg-dots.v-light .background-section:not(.dsn-btn, .service-item, .service-item-inner), .bg-dots.v-light .background-main:not(.dsn-btn, .service-item, .service-item-inner), .bg-dots.v-light .background-theme:not(.dsn-btn, .service-item, .service-item-inner), .v-light .bg-dots:not(.dsn-btn, .service-item, .service-item-inner), .v-light .bg-dots .background-section:not(.dsn-btn, .service-item, .service-item-inner), .v-light .bg-dots .background-main:not(.dsn-btn, .service-item, .service-item-inner), .v-light .bg-dots .background-theme:not(.dsn-btn, .service-item, .service-item-inner) {
-  background-image: url("../img/bg-dot-light.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/archstudiogit/master@main/assets/css/bg-dot-light.png");
 }
 
 .bg-pattern {
